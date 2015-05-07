@@ -6,9 +6,9 @@ An easy on the eyes Xcode theme, based on [Ciapre Xcode theme](http://vinhnx.git
 
 ![Ciaprer Debugger](https://raw.github.com/raspu/Ciaprer-Xcode-theme/master/screenshot/XcodeDebugger.png "Ciaprer Xcode Debugger")
 
-# Requirements #
+# Font Requirements #
 
-Please install [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata) ([Source files](https://github.com/google/fonts/tree/master/ofl/inconsolata)) font for getting the perfect result. 
+This theme depends on [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata) ([Source files](https://github.com/google/fonts/tree/master/ofl/inconsolata)) regular and bold, you can change the font if you want, but I highly recommend you to use this one. Don't worry is free ;). 
 
 
 
