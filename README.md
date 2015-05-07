@@ -25,6 +25,12 @@ This theme depends on [Inconsolata](https://www.google.com/fonts/specimen/Incons
 2. Restart Xcode, select your new Ciaprer theme in Color settings.
 
 
+# Theme #
+
+The theme comes in two variations:
+
+ * **Regular** (Ciaprer): Configured with a font size of 14 pt.
+ * **Large screen** (Ciaprer 16): Configured with a font size of 16 pt. 
 
 
 
