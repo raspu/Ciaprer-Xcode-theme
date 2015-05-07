@@ -22,9 +22,8 @@ Please install [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata) 
 
 1. `$ ./install-ciaprer-theme.sh`
 
-2. Restart Xcode, select your new Ciapre theme in Color settings.
+2. Restart Xcode, select your new Ciaprer theme in Color settings.
 
-3. Happy Coding -> Profit (?!) :shipit::ship::rocket::octocat:
 
 
 
