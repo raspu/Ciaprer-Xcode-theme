@@ -16,7 +16,7 @@ This theme depends on [Inconsolata](https://www.google.com/fonts/specimen/Incons
 
 **Alcatraz** 
 
-(Not Yet available) 
+In Xcode Package Manager Alcatraz. Just search for Ciaprer -> check the checkmark button -> restart Xcode.
 
 **Manually**
 
