@@ -8,7 +8,7 @@ An easy on the eyes Xcode theme, based on [Ciapre Xcode theme](http://vinhnx.git
 
 # Font Requirements #
 
-This theme depends on [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata) ([Source files](https://github.com/google/fonts/tree/master/ofl/inconsolata)) regular and bold, you can change the font if you want, but I highly recommend you to use this one. Don't worry is free ;). 
+This theme depends on [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata) ([Source files](https://github.com/google/fonts/tree/master/ofl/inconsolata)) regular and bold, you can change the font if you want, but I highly recommend you to use this one. Don't worry it's free ;). 
 
 
 
